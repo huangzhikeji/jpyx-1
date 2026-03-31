@@ -2,6 +2,8 @@
 
 ### 自动构建server.jar指南  视频：https://www.youtube.com/watch?v=gSaNfYc-JaM	
 
+视频教程
+- [https://www.youtube.com/watch?v=gSaNfYc-JaM)
 1：fork本项目
 
 2：在Actions菜单允许 `I understand my workflows, go ahead and enable them` 按钮
